@@ -1,0 +1,9 @@
+GNOME THEME SETTINGS:
+sudo apt install plank
+sudo apt install gnome-tweaks
+sudo apt install gnome-shell-extension-manager
+
+GNOME EXTENSTIONS:
+Blur my shell
+User Themes
+Vitals
